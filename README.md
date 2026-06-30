@@ -1,4 +1,4 @@
-# Preparación IOAI
+# IOAI 2026
 
 ¡Bienvenidos!
 
